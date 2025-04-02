@@ -25,8 +25,8 @@ author_profile: true
   <tr>
     <td style="vertical-align:top; width: 60%; font-size: 18px; border: none;">
       <strong>南开大学 人工智能学院</strong><br>
-      控制科学与工程 硕博连读<br>
-      2020年9月 – 至今
+      控制工程 硕士<br>
+      2022年9月 – 至今
     </td>
     <td style="padding-left: 20px; width: 40%; text-align: center; border: none;">
       <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
@@ -34,12 +34,12 @@ author_profile: true
   </tr>
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 60%; font-size: 18px; border: none;">
-      <strong>吉林大学 通信工程学院</strong><br>
-      自动化专业 本科，年级排名：5/149<br>
-      2016年9月 – 2020年6月
+      <strong>南开大学 人工智能学院</strong><br>
+      自动化专业 本科<br>
+      2018年9月 – 2022年6月
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 40%; text-align: center; border: none;">
-      <img src="/images/jilinUnivers-logo.png" alt="吉林大学Logo" width="40%">
+      <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
     </td>
   </tr>
 </table>
