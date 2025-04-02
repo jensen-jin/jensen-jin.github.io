@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="25%">
 </p>
 
-I'm a Master student from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1034/4844.htm).
+I'm a Master student from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
 
 My research interests include **robotics**, **aerial transportation systems**, **motion control**, and **planning**.
 
