@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hai Yu (于海)"
+title                    : "Ying(Jensen) Jin (金赢)"
 title_separator          : "-"
-name                     : &name "Hai Yu"
-description              : &description "PhD Candidate of Nankai University"
-url                      : https://u-hai.github.io 
+name                     : &name "Ying(Jensen) Jin"
+description              : &description "M.S. of Nankai University"
+url                      : https://jensen-jin.github.io 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "u-hai/u-hai.github.io"
+repository               : "jensen-jin/jensen-jin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,17 +24,17 @@ author:
   # Biographic information
   # avatar           : "zzp.png"
   avatar           : "pic-yuhai.jpg"
-  name             : "Hai Yu"
+  name             : "Ying(Jensen) Jin"
   pronouns         : # example: "she/her" 
   bio              : "PhD Candidate in Robotics"
   location         : "Tianjin, China"
   employer         : "Nankai University"
   uri              : # URL
-  email            : "yuhai@mail.nankai.edu.cn"
+  email            : "yingjonnyjin@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=0MMaeMEAAAAJ&hl=zh-CN"
+  googlescholar    : # "https://scholar.google.com/citations?user=0MMaeMEAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "u-hai"
+  github           : "jensen-jin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -73,7 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  xiaohongshu      : "5d2c1d760000000012009119"
+  xiaohongshu      : # "5d2c1d760000000012009119"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
